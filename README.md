@@ -21,7 +21,7 @@ Ireland Digital Services Breakdown (Pie Chart)
 France Digital Services Breakdown (Pie Chart)
 Uk digital services Breakdown ( Pie chart)
 
-Gambling services by country and more ( Box chart)
+Gambling services by country and more ( Bar chart)
 
 Overall there was really not enough data to take anything meaningful from but it was good practice 
 
